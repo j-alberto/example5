@@ -1,6 +1,9 @@
 <resources>
     <string name="app_name">example5</string>
-    <string name="title_memory">Memory</string>
+    <string name="title_memory">App Memory</string>
     <string name="hint_name">Nombre</string>
-    <string name="button_save">Guardar</string>
+    <string name="button_save">Guardar archivo</string>
+    <string name="save_preference">Guardar Preferencias</string>
+    <string name="show_preference">Mostrar Preferencia</string>
+    <string name="email">Email</string>
 </resources>
